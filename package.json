@@ -22,7 +22,7 @@
     "daemon": "~1.1.0",
     "express": "3.2.0",
     "express-namespace": "~0.1.1",
-    "gm": "1.14.2",
+    "gm": "1.23.1",
     "gravatar": "1.0.6",
     "less": "~1.6.3",
     "marked": "0.2.8",
